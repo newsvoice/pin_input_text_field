@@ -303,6 +303,7 @@ class _PinInputTextFieldState extends State<PinInputTextField> {
         style: TextStyle(
           /// Hide the editing text.
           color: Colors.transparent,
+          fontSize: 2.0,
         ),
 
         /// Hide the Cursor.
